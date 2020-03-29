@@ -1,2 +1,2 @@
-# SpeechRecognize
-Speech Recognize Demo
+# Speech Recognizer
+Speech Recognizer demo using Speech Framework.
